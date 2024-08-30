@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 8/30/2024, 04:45:14
+      Time of this report: 8/30/2024, 20:34:39
              Machine name: CHEEGERGROMOV
                Machine Id: {AE11BCA0-9A3D-4BE1-809A-A41C64D66CD7}
          Operating System: Windows 11 Home Single Language 64-bit (10.0, Build 22631) (22621.ni_release.220506-1250)
@@ -12,13 +12,13 @@ System Information
                 Processor: 13th Gen Intel(R) Core(TM) i7-13700HX (24 CPUs), ~2.1GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32488MB RAM
-                Page File: 19092MB used, 16339MB available
+                Page File: 16081MB used, 19350MB available
               Windows Dir: C:\Windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
          User DPI Setting: 120 DPI (125 percent)
-       System DPI Setting: 96 DPI (100 percent)
-          DWM DPI Scaling: Disabled
+       System DPI Setting: 120 DPI (125 percent)
+          DWM DPI Scaling: UnKnown
                  Miracast: Available, with HDCP
 Microsoft Graphics Hybrid: Supported
  DirectX Database Version: 1.6.0
@@ -31,8 +31,6 @@ DxDiag Notes
       Display Tab 2: No problems found.
       Display Tab 3: No problems found.
         Sound Tab 1: No problems found.
-        Sound Tab 2: No problems found.
-        Sound Tab 3: No problems found.
           Input Tab: No problems found.
 
 --------------------
@@ -49,155 +47,6 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-           Card name: NVIDIA GeForce RTX 4060 Laptop GPU
-        Manufacturer: NVIDIA
-           Chip type: NVIDIA GeForce RTX 4060 Laptop GPU
-            DAC type: Integrated RAMDAC
-         Device Type: Full Device
-          Device Key: Enum\PCI\VEN_10DE&DEV_28E0&SUBSYS_170F1025&REV_A1
-       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
- Device Problem Code: No Problem
- Driver Problem Code: Unknown
-      Display Memory: 24200 MB
-    Dedicated Memory: 7957 MB
-       Shared Memory: 16243 MB
-        Current Mode: 1920 x 1080 (32 bit) (60Hz)
-         HDR Support: Not Supported
-    Display Topology: Internal
- Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
-     Color Primaries: Red(0.660156,0.313477), Green(0.272461,0.640625), Blue(0.154297,0.053711), White Point(0.313477,0.329102)
-   Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
-        Monitor Name: Generic PnP Monitor
-       Monitor Model: 27G2G4
-          Monitor Id: AOC2702
-         Native Mode: 1920 x 1080(p) (60.000Hz)
-         Output Type: HDMI
-Monitor Capabilities: HDR Not Supported
-Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
-      Advanced Color: Not Supported
-         Driver Name: C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll
- Driver File Version: 31.00.0015.5244 (English)
-      Driver Version: 31.0.15.5244
-         DDI Version: 12
-      Feature Levels: 12_2,12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
-        Driver Model: WDDM 3.1
- Hardware Scheduling: DriverSupportState:Stable Enabled:True 
-         Displayable: Supported 
- Graphics Preemption: Pixel
-  Compute Preemption: Dispatch
-            Miracast: Not Supported by Graphics driver
-      Detachable GPU: No
- Hybrid Graphics GPU: Discrete
-      Power P-states: Not Supported
-      Virtualization: Paravirtualization 
-          Block List: No Blocks
-  Catalog Attributes: Universal:False Declarative:True 
-   Driver Attributes: Final Retail
-    Driver Date/Size: 06/05/2024 21:00:00, 785168 bytes
-         WHQL Logo'd: Yes
-     WHQL Date Stamp: Unknown
-   Device Identifier: {D7B71E3E-6BA0-11CF-E967-00370EC2D235}
-           Vendor ID: 0x10DE
-           Device ID: 0x28E0
-           SubSys ID: 0x170F1025
-         Revision ID: 0x00A1
-  Driver Strong Name: oem143.inf:0f066de3e479cb36:Section130:31.0.15.5244:pci\ven_10de&dev_28e0&subsys_170f1025
-      Rank Of Driver: 00CF0001
-         Video Accel: 
-         DXVA2 Modes: {86695F12-340E-4F04-9FD3-9253DD327460}  DXVA2_ModeMPEG2_VLD  {6F3EC719-3735-42CC-8063-65CC3CB36616}  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  {32FCFE3F-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  {20BB8B0A-97AA-4571-8E99-64E60606C1A6}  {15DF9B21-06C4-47F1-841E-A67C97D7F312}  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {9947EC6F-689B-11DC-A320-0019DBBC4184}  {33FCFE41-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {DDA19DC7-93B5-49F5-A9B3-2BDA28A2CE6E}  {B8BE4CCB-CF53-46BA-8D59-D6B8A6DA5D2A}  {6AFFD11E-1D96-42B1-A215-93A31F09A53D}  {914C84A3-4078-4FA9-984C-E2F262CB5C9C}  {8A1A1031-29BC-46D0-A007-E9B092CA6767}  
-   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-        D3D9 Overlay: Not Supported
-             DXVA-HD: Supported
-        DDraw Status: Enabled
-          D3D Status: Enabled
-          AGP Status: Enabled
-       MPO MaxPlanes: 4
-            MPO Caps: RGB,YUV,BILINEAR,HIGH_FILTER,STRETCH_YUV,STRETCH_RGB,IMMEDIATE,HDR (MPO3)
-         MPO Stretch: 10.000X - 0.500X
-     MPO Media Hints: resizing, colorspace Conversion 
-         MPO Formats: NV12,P010,YUY2,R16G16B16A16_FLOAT,R10G10B10A2_UNORM,R8G8B8A8_UNORM,B8G8R8A8_UNORM
-    PanelFitter Caps: RGB,YUV,BILINEAR,HIGH_FILTER,STRETCH_YUV,STRETCH_RGB,IMMEDIATE,HDR (MPO3)
- PanelFitter Stretch: 10.000X - 0.500X
-
            Card name: Intel(R) UHD Graphics
         Manufacturer: Intel Corporation
            Chip type: Intel(R) UHD Graphics Family
@@ -210,12 +59,20 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
       Display Memory: 16371 MB
     Dedicated Memory: 128 MB
        Shared Memory: 16243 MB
-        Current Mode: Unknown
-         HDR Support: Unknown
-    Display Topology: Unknown
- Display Color Space: Unknown
-     Color Primaries: Unknown
-   Display Luminance: Unknown
+        Current Mode: 1920 x 1200 (32 bit) (165Hz)
+         HDR Support: Supported
+    Display Topology: Internal
+ Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
+     Color Primaries: Red(0.654297,0.333984), Green(0.286133,0.643555), Blue(0.151367,0.049805), White Point(0.313477,0.329102)
+   Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
+        Monitor Name: Generic PnP Monitor
+       Monitor Model: unknown
+          Monitor Id: AUOD7A7
+         Native Mode: 1920 x 1200(p) (60.025Hz)
+         Output Type: Internal
+Monitor Capabilities: HDR Not Supported
+Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
+      Advanced Color: AdvancedColorSupported 
          Driver Name: <>,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_89db58ae936de7ec\igd10iumd64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_89db58ae936de7ec\igd10iumd64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_89db58ae936de7ec\igd12umd64.dll
  Driver File Version: 31.00.0101.4146 (English)
       Driver Version: 31.0.101.4146
@@ -237,15 +94,118 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
     Driver Date/Size: 21/02/2023 21:00:00, 4778632 bytes
          WHQL Logo'd: Yes
      WHQL Date Stamp: Unknown
-   Device Identifier: Unknown
+   Device Identifier: {D7B78E66-05C8-11CF-A763-6A37A3C2D235}
            Vendor ID: 0x8086
            Device ID: 0x4688
            SubSys ID: 0x170F1025
          Revision ID: 0x000C
   Driver Strong Name: oem159.inf:5f63e5343a252f2b:iADLSD_w10_DS:31.0.101.4146:PCI\VEN_8086&DEV_4688&SUBSYS_170F1025
       Rank Of Driver: 00CF0001
-         Video Accel: Unknown
+         Video Accel: 
          DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  {E07EC519-E651-4CD6-AC84-1370CCEEC851}  {BCC5DB6D-A2B6-4AF0-ACE4-ADB1F787BC89}  DXVA2_ModeWMV9_IDCT  DXVA2_ModeVC1_IDCT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_Multiview_NoFGT  {C528916C-C0AF-4645-8CB2-372B6D4ADC2A}  {91CD2D6E-897B-4FA1-B0D7-51DC88010E0A}  {97688186-56A8-4094-B543-FC9DAAA49F4B}  {1424D4DC-7CF5-4BB1-9CD7-B63717A72A6B}  {C346E8A3-CBED-4D27-87CC-A70EB4DC8C27}  {FFC79924-5EAF-4666-A736-06190F281443}  {464BDB3C-91C4-4E9B-896F-225496AC4ED6}  {9B31316B-F204-455D-8A8C-9345DCA77C01}  {AFE4285C-AB63-4B2D-8278-E6BAACEA2CE9}  {277DE9C5-ED83-48DD-AB8F-AC2D24B22943}  {04C5BA10-4E9A-4B8E-8DBF-4F4B48AFA27C}  {0ACEF8BC-285F-415D-AB22-7BF2527A3D2E}  {24D19FCA-C5A2-4B8E-9F93-F8F6EF15C890}  {353ACA91-D945-4C13-AE7E-469060FAC8D8}  {28566328-F041-4466-8B14-8F5831E78F8B}  {6B4A94DB-54FE-4AE1-9BE4-7A7DAD004600}  {B8B28E0C-ECAB-4217-8C82-EAAA9755AAF0}  {8732ECFD-9747-4897-B42A-E534F9FF2B7A}  {E139B5CA-47B2-40E1-AF1C-AD71A67A1836}  {056A6E36-F3A8-4D00-9663-7E9430358BF9}  {5415A68C-231E-46F4-878B-5E9A22E967E9}  {161BE912-44C2-49C0-B61E-D946852B32A1}  {D6D6BC4F-D51A-4712-97E8-750917C860FD}  {7FEF652D-3233-44DF-ACF7-ECFB584DAB35}  {87B2AE39-C9A5-4C53-86B8-A52D7EDBA488}  {10E19AC8-BF39-4443-BEC3-1B0CBFE4C7AA}  {2DEC00C7-21EE-4BF8-8F0E-773F11F126A2}  {C35153A0-23C0-4A81-B3BB-6A1326F2B76B}  {A33FD0EC-A9D3-4C21-9276-C241CC90F6C7}  {310E59D2-7EA4-47BB-B319-500E78855336}  {036DFF40-94A6-45B3-A0B3-71F0CDF35129}  {8C56EB1E-2B47-466F-8D33-7DBCD63F3DF2}  DXVA2_ModeHEVC_VLD_Main  {75FC75F7-C589-4A07-A25B-72E03B0383B3}  DXVA2_ModeHEVC_VLD_Main10  {E484DCB8-CAC9-4859-99F5-5C0D45069089}  {41A5AF96-E415-4B0C-9D03-907858E23E78}  {6A6A81BA-912A-485D-B57F-CCD2D37B8D94}  {E4E3CF5B-97D2-4658-AACB-366E3EE2CEEE}  {FD9D9559-0FD3-4917-A9A7-07E714EE9EF9}  {0E4BC693-5D2C-4936-B125-AEFE32B16D8A}  {2F08B5B1-DBC2-4D48-883A-4E7B8174CFF6}  {5467807A-295D-445D-BD2E-CBA8C2457C3D}  {AE0D4E15-2360-40A8-BF82-028E6A0DD827}  {8FF8A3AA-C456-4132-B6EF-69D9DD72571D}  {C23DD857-874B-423C-B6E0-82CEAA9B118A}  {5B08E35D-0C66-4C51-A6F1-89D00CB2C197}  {07CFAFFB-5A2E-4B99-B62A-E4CA53B6D5AA}  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {76988A52-DF13-419A-8E64-FFCF4A336CF5}  {68A21C7B-D58F-4E74-9993-E4B8172B19A0}  {80A3A7BD-89D8-4497-A2B8-2126AF7E6EB8}  {1D5C4D76-B55A-4430-904C-3383A7AE3B16}  {A7F759DD-5F54-4D7F-8291-42E883C546FE}  {F34FA92F-DC79-474C-B0DB-B7BD4522DF77}  {B8BE4CCB-CF53-46BA-8D59-D6B8A6DA5D2A}  {CA44AFC5-E1D0-42E6-9154-B127186D4D40}  {F9A16190-3FB4-4DC5-9846-C8751F83D6D7}  {50925B7B-E931-4978-A12A-586630F095F9}  {B69C20E0-2508-8790-0305-875499E0A2D0}  {49761BEC-4B63-4349-A5FF-87FFDF088466}  
+   Deinterlace Caps: {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,0x31434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,0x31434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(IMC1,0x31434d49) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,0x32434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,0x32434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(IMC2,0x32434d49) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,0x33434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,0x33434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(IMC3,0x33434d49) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,0x34434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,0x34434d49) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(IMC4,0x34434d49) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,0x30343353) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,0x30343353) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(S340,0x30343353) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,0x32343353) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,0x32343353) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate 
+                     {E064B480-A8BB-4D81-8181-59DC0BE51D02}: Format(In/Out)=(S342,0x32343353) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate DeinterlaceTech_FieldAdaptive 
+        D3D9 Overlay: Not Supported
+             DXVA-HD: Supported
+        DDraw Status: Enabled
+          D3D Status: Enabled
+          AGP Status: Enabled
+       MPO MaxPlanes: 3
+            MPO Caps: ROTATION,HORIZONTAL_FLIP,RGB,YUV,BILINEAR,HIGH_FILTER,STRETCH_YUV,STRETCH_RGB,IMMEDIATE,HDR (MPO3)
+         MPO Stretch: 21.000X - 0.334X
+     MPO Media Hints: colorspace Conversion 
+         MPO Formats: NV12,YUY2,R16G16B16A16_FLOAT,R10G10B10A2_UNORM,R8G8B8A8_UNORM,B8G8R8A8_UNORM
+    PanelFitter Caps: ROTATION,HORIZONTAL_FLIP,RGB,YUV,BILINEAR,HIGH_FILTER,STRETCH_YUV,STRETCH_RGB,IMMEDIATE,HDR (MPO3)
+ PanelFitter Stretch: 21.000X - 0.334X
+   Extension Drivers: 
+             Driver Name: C:\Windows\System32\DriverStore\FileRepository\iigd_ext.inf_amd64_81bc792261bd102a\iigd_ext.inf
+          Driver Version: 31.0.101.4146
+             Driver Date: 02/22/2023
+         Driver Provider: Intel Corporation
+      Catalog Attributes: Universal:False Declarative:True 
+   Component Drivers: 
+             Driver Name: Unknown
+          Driver Version: Unknown
+             Driver Date: Unknown
+         Driver Provider: Unknown
+      Catalog Attributes: N/A
+
+           Card name: NVIDIA GeForce RTX 4060 Laptop GPU
+        Manufacturer: NVIDIA
+           Chip type: NVIDIA GeForce RTX 4060 Laptop GPU
+            DAC type: Integrated RAMDAC
+         Device Type: Full Device
+          Device Key: Enum\PCI\VEN_10DE&DEV_28E0&SUBSYS_170F1025&REV_A1
+       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+ Device Problem Code: No Problem
+ Driver Problem Code: Unknown
+      Display Memory: 24200 MB
+    Dedicated Memory: 7957 MB
+       Shared Memory: 16243 MB
+        Current Mode: Unknown
+         HDR Support: Unknown
+    Display Topology: Unknown
+ Display Color Space: Unknown
+     Color Primaries: Unknown
+   Display Luminance: Unknown
+         Driver Name: C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_24ac56529e6b54d3\nvldumdx.dll
+ Driver File Version: 31.00.0015.5244 (English)
+      Driver Version: 31.0.15.5244
+         DDI Version: 12
+      Feature Levels: 12_2,12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        Driver Model: WDDM 3.1
+ Hardware Scheduling: DriverSupportState:Stable Enabled:True 
+         Displayable: Supported 
+ Graphics Preemption: Pixel
+  Compute Preemption: Dispatch
+            Miracast: Not Supported by Graphics driver
+      Detachable GPU: No
+ Hybrid Graphics GPU: Discrete
+      Power P-states: Not Supported
+      Virtualization: Paravirtualization 
+          Block List: No Blocks
+  Catalog Attributes: Universal:False Declarative:True 
+   Driver Attributes: Final Retail
+    Driver Date/Size: 06/05/2024 21:00:00, 785168 bytes
+         WHQL Logo'd: Yes
+     WHQL Date Stamp: Unknown
+   Device Identifier: Unknown
+           Vendor ID: 0x10DE
+           Device ID: 0x28E0
+           SubSys ID: 0x170F1025
+         Revision ID: 0x00A1
+  Driver Strong Name: oem143.inf:0f066de3e479cb36:Section130:31.0.15.5244:pci\ven_10de&dev_28e0&subsys_170f1025
+      Rank Of Driver: 00CF0001
+         Video Accel: Unknown
+         DXVA2 Modes: {86695F12-340E-4F04-9FD3-9253DD327460}  DXVA2_ModeMPEG2_VLD  {6F3EC719-3735-42CC-8063-65CC3CB36616}  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  {32FCFE3F-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  {20BB8B0A-97AA-4571-8E99-64E60606C1A6}  {15DF9B21-06C4-47F1-841E-A67C97D7F312}  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {9947EC6F-689B-11DC-A320-0019DBBC4184}  {33FCFE41-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {DDA19DC7-93B5-49F5-A9B3-2BDA28A2CE6E}  {B8BE4CCB-CF53-46BA-8D59-D6B8A6DA5D2A}  {6AFFD11E-1D96-42B1-A215-93A31F09A53D}  {914C84A3-4078-4FA9-984C-E2F262CB5C9C}  {8A1A1031-29BC-46D0-A007-E9B092CA6767}  
       Deinterlace Caps: n/a
         D3D9 Overlay: Unknown
              DXVA-HD: Unknown
@@ -259,18 +219,6 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
          MPO Formats: Not Supported
     PanelFitter Caps: Not Supported
  PanelFitter Stretch: Not Supported
-   Extension Drivers: 
-             Driver Name: C:\Windows\System32\DriverStore\FileRepository\iigd_ext.inf_amd64_81bc792261bd102a\iigd_ext.inf
-          Driver Version: 31.0.101.4146
-             Driver Date: 02/22/2023
-         Driver Provider: Intel Corporation
-      Catalog Attributes: Universal:False Declarative:True 
-   Component Drivers: 
-             Driver Name: Unknown
-          Driver Version: Unknown
-             Driver Date: Unknown
-         Driver Provider: Unknown
-      Catalog Attributes: N/A
 
            Card name: SuperDisplay Virtual Adapter
         Manufacturer: Software by KeloCube
@@ -337,57 +285,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
 -------------
 Sound Devices
 -------------
-            Description: 27G2G4 (NVIDIA High Definition Audio)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_00A7&SUBSYS_1025170F&REV_1001
-        Manufacturer ID: N/A
-             Product ID: N/A
-                   Type: N/A
-            Driver Name: nvhda64v.sys
-         Driver Version: 1.3.40.14 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: No
-          Date and Size: 18/01/2023 21:00:00, 121880 bytes
-            Other Files: 
-        Driver Provider: NVIDIA Corporation
-         HW Accel Level: Emulation Only
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
             Description: Alto-falantes (Realtek(R) Audio)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: INTELAUDIO\FUNC_01&VEN_10EC&DEV_0245&SUBSYS_1025170F&REV_1000
-        Manufacturer ID: N/A
-             Product ID: N/A
-                   Type: N/A
-            Driver Name: RTKVHD64.sys
-         Driver Version: 6.0.9652.1 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: No
-          Date and Size: 04/03/2024 21:00:00, 6152720 bytes
-            Other Files: 
-        Driver Provider: Realtek Semiconductor Corp.
-         HW Accel Level: Emulation Only
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
-            Description: Fones de ouvido (Realtek(R) Audio)
  Default Sound Playback: Yes
  Default Voice Playback: Yes
             Hardware ID: INTELAUDIO\FUNC_01&VEN_10EC&DEV_0245&SUBSYS_1025170F&REV_1000
@@ -397,7 +295,7 @@ Sensaura(tm) ZoomFX(tm): No
             Driver Name: RTKVHD64.sys
          Driver Version: 6.0.9652.1 (English)
       Driver Attributes: Final Retail
-            WHQL Logo'd: No
+            WHQL Logo'd: Yes
           Date and Size: 04/03/2024 21:00:00, 6152720 bytes
             Other Files: 
         Driver Provider: Realtek Semiconductor Corp.
@@ -415,7 +313,7 @@ Sensaura(tm) ZoomFX(tm): No
 ---------------------
 Sound Capture Devices
 ---------------------
-            Description: Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)
+            Description: Grupo de microfones (Tecnologia Intel  Smart Sound para microfones digitais)
   Default Sound Capture: No
   Default Voice Capture: No
             Driver Name: IntcDMic.sys
@@ -425,19 +323,9 @@ Sound Capture Devices
               Cap Flags: 0x1
            Format Flags: 0xFFFFF
 
-            Description: Microfone (Realtek(R) Audio)
+            Description: Microfone (Virtual Desktop Audio)
   Default Sound Capture: Yes
   Default Voice Capture: Yes
-            Driver Name: RTKVHD64.sys
-         Driver Version: 6.0.9652.1 (English)
-      Driver Attributes: Final Retail
-          Date and Size: 04/03/2024 21:00:00, 6152720 bytes
-              Cap Flags: 0x1
-           Format Flags: 0xFFFFF
-
-            Description: Microfone (Virtual Desktop Audio)
-  Default Sound Capture: No
-  Default Voice Capture: No
             Driver Name: vdvad.sys
          Driver Version: 1.6.1.0 (English)
       Driver Attributes: Final Retail
@@ -502,48 +390,6 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
       Device Name: HIDI2C Device
          Attached: 1
     Controller ID: 0x0
@@ -562,10 +408,10 @@ Vendor/Product ID: 0xDEED, 0xFEED
 Vendor/Product ID: 0x093A, 0x3848
         FF Driver: n/a
 
-      Device Name: USB Receiver
+      Device Name: SuperDisplay HID Driver
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC534
+Vendor/Product ID: 0x00FF, 0xF47D
         FF Driver: n/a
 
       Device Name: SuperDisplay HID Driver
@@ -577,55 +423,31 @@ Vendor/Product ID: 0x00FF, 0xF47D
       Device Name: USB Receiver
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC534
+Vendor/Product ID: 0x046D, 0xC548
         FF Driver: n/a
 
       Device Name: USB Receiver
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
+Vendor/Product ID: 0x046D, 0xC548
         FF Driver: n/a
 
       Device Name: USB Receiver
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC534
+Vendor/Product ID: 0x046D, 0xC548
         FF Driver: n/a
 
       Device Name: USB Receiver
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC534
-        FF Driver: n/a
-
-      Device Name: SuperDisplay HID Driver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x00FF, 0xF47D
+Vendor/Product ID: 0x046D, 0xC548
         FF Driver: n/a
 
       Device Name: USB Receiver
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
-        FF Driver: n/a
-
-      Device Name: USB Receiver
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x046D, 0xC52B
+Vendor/Product ID: 0x046D, 0xC548
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -639,126 +461,36 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 6/12/2024 05:46:55, 730608 bytes
 | 
-+-+ Generic USB Hub
-| | Vendor/Product ID: 0x214B, 0x7250
-| | Location: Port_#0001.Hub_#0001
-| | Matching Device ID: USB\USB20_HUB
-| | Service: USBHUB3
-| | Driver: USBHUB3.SYS, 6/12/2024 05:46:55, 730608 bytes
-| | 
-| +-+ USB Composite Device
-| | | Vendor/Product ID: 0x046D, 0xC52B
-| | | Location: Port_#0004.Hub_#0002
-| | | Matching Device ID: USB\COMPOSITE
-| | | Service: usbccgp
-| | | Driver: usbccgp.sys, 6/12/2024 05:46:55, 226800 bytes
-| | | 
-| | +-+ Logitech USB Input Device
-| | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | Location: 0000.0014.0000.001.004.000.000.000.000
-| | | | Matching Device ID: usb\vid_046d&pid_c52b&mi_00
-| | | | Service: HidUsb
-| | | | Driver: hidusb.sys, 6/12/2024 05:46:55, 77824 bytes
-| | | | Driver: hidclass.sys, 6/12/2024 05:46:55, 282624 bytes
-| | | | Driver: hidparse.sys, 6/12/2024 05:46:55, 90112 bytes
-| | | | Driver: LogiLDA.DLL, 8/30/2021 20:01:52, 3831808 bytes
-| | | | Driver: LdaCx2.dll, 8/30/2021 20:01:50, 2477536 bytes
-| | | | Driver: msvcp110.dll, 8/30/2021 20:01:52, 680032 bytes
-| | | | Driver: msvcr110.dll, 8/30/2021 20:01:54, 847448 bytes
-| | | | Driver: vccorlib110.dll, 8/30/2021 20:01:56, 372840 bytes
-| | | | 
-| | | +-+ Dispositivo de teclado HID
-| | | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | | | Service: kbdhid
-| | | | | Driver: kbdhid.sys, 6/12/2024 05:46:55, 73728 bytes
-| | | | | Driver: kbdclass.sys, 6/12/2024 05:46:55, 95600 bytes
-| | | | 
-| | +-+ Dispositivo de Entrada USB
-| | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | Location: 0000.0014.0000.001.004.000.000.000.000
-| | | | Matching Device ID: USB\Class_03&SubClass_01
-| | | | Service: HidUsb
-| | | | Driver: hidusb.sys, 6/12/2024 05:46:55, 77824 bytes
-| | | | Driver: hidclass.sys, 6/12/2024 05:46:55, 282624 bytes
-| | | | Driver: hidparse.sys, 6/12/2024 05:46:55, 90112 bytes
-| | | | 
-| | | +-+ Mouse compatível com HID
-| | | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | | | Service: mouhid
-| | | | | Driver: mouhid.sys, 5/7/2022 02:19:25, 69632 bytes
-| | | | | Driver: mouclass.sys, 5/7/2022 02:19:25, 95592 bytes
-| | | 
-| +-+ USB Composite Device
-| | | Vendor/Product ID: 0x046D, 0xC52B
-| | | Location: Port_#0003.Hub_#0002
-| | | Matching Device ID: USB\COMPOSITE
-| | | Service: usbccgp
-| | | Driver: usbccgp.sys, 6/12/2024 05:46:55, 226800 bytes
-| | | 
-| | +-+ Logitech USB Input Device
-| | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | Location: 0000.0014.0000.001.003.000.000.000.000
-| | | | Matching Device ID: usb\vid_046d&pid_c52b&mi_00
-| | | | Service: HidUsb
-| | | | Driver: hidusb.sys, 6/12/2024 05:46:55, 77824 bytes
-| | | | Driver: hidclass.sys, 6/12/2024 05:46:55, 282624 bytes
-| | | | Driver: hidparse.sys, 6/12/2024 05:46:55, 90112 bytes
-| | | | Driver: LogiLDA.DLL, 8/30/2021 20:01:52, 3831808 bytes
-| | | | Driver: LdaCx2.dll, 8/30/2021 20:01:50, 2477536 bytes
-| | | | Driver: msvcp110.dll, 8/30/2021 20:01:52, 680032 bytes
-| | | | Driver: msvcr110.dll, 8/30/2021 20:01:54, 847448 bytes
-| | | | Driver: vccorlib110.dll, 8/30/2021 20:01:56, 372840 bytes
-| | | | 
-| | | +-+ Dispositivo de teclado HID
-| | | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | | | Service: kbdhid
-| | | | | Driver: kbdhid.sys, 6/12/2024 05:46:55, 73728 bytes
-| | | | | Driver: kbdclass.sys, 6/12/2024 05:46:55, 95600 bytes
-| | | | 
-| | +-+ Dispositivo de Entrada USB
-| | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | Location: 0000.0014.0000.001.003.000.000.000.000
-| | | | Matching Device ID: USB\Class_03&SubClass_01
-| | | | Service: HidUsb
-| | | | Driver: hidusb.sys, 6/12/2024 05:46:55, 77824 bytes
-| | | | Driver: hidclass.sys, 6/12/2024 05:46:55, 282624 bytes
-| | | | Driver: hidparse.sys, 6/12/2024 05:46:55, 90112 bytes
-| | | | 
-| | | +-+ Mouse compatível com HID
-| | | | | Vendor/Product ID: 0x046D, 0xC52B
-| | | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | | | Service: mouhid
-| | | | | Driver: mouhid.sys, 5/7/2022 02:19:25, 69632 bytes
-| | | | | Driver: mouclass.sys, 5/7/2022 02:19:25, 95592 bytes
-| | 
 +-+ USB Composite Device
-| | Vendor/Product ID: 0x046D, 0xC534
+| | Vendor/Product ID: 0x046D, 0xC548
 | | Location: Port_#0003.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 6/12/2024 05:46:55, 226800 bytes
 | | 
-| +-+ Dispositivo de Entrada USB
-| | | Vendor/Product ID: 0x046D, 0xC534
+| +-+ Logitech USB Input Device
+| | | Vendor/Product ID: 0x046D, 0xC548
 | | | Location: 0000.0014.0000.003.000.000.000.000.000
-| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Matching Device ID: usb\vid_046d&pid_c548&mi_00
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 6/12/2024 05:46:55, 77824 bytes
 | | | Driver: hidclass.sys, 6/12/2024 05:46:55, 282624 bytes
 | | | Driver: hidparse.sys, 6/12/2024 05:46:55, 90112 bytes
+| | | Driver: LogiLDA.DLL, 8/30/2021 20:01:52, 3831808 bytes
+| | | Driver: LdaCx2.dll, 8/30/2021 20:01:50, 2477536 bytes
+| | | Driver: msvcp110.dll, 8/30/2021 20:01:52, 680032 bytes
+| | | Driver: msvcr110.dll, 8/30/2021 20:01:54, 847448 bytes
+| | | Driver: vccorlib110.dll, 8/30/2021 20:01:56, 372840 bytes
 | | | 
 | | +-+ Dispositivo de teclado HID
-| | | | Vendor/Product ID: 0x046D, 0xC534
+| | | | Vendor/Product ID: 0x046D, 0xC548
 | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 6/12/2024 05:46:55, 73728 bytes
 | | | | Driver: kbdclass.sys, 6/12/2024 05:46:55, 95600 bytes
 | | | 
 | +-+ Dispositivo de Entrada USB
-| | | Vendor/Product ID: 0x046D, 0xC534
+| | | Vendor/Product ID: 0x046D, 0xC548
 | | | Location: 0000.0014.0000.003.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
@@ -766,8 +498,8 @@ USB Devices
 | | | Driver: hidclass.sys, 6/12/2024 05:46:55, 282624 bytes
 | | | Driver: hidparse.sys, 6/12/2024 05:46:55, 90112 bytes
 | | | 
-| | +-+ Mouse compatível com HID
-| | | | Vendor/Product ID: 0x046D, 0xC534
+| | +-+ Mouse compat vel com HID
+| | | | Vendor/Product ID: 0x046D, 0xC548
 | | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | | | | Service: mouhid
 | | | | Driver: mouhid.sys, 5/7/2022 02:19:25, 69632 bytes
@@ -787,20 +519,20 @@ PS/2 Devices
 | Driver: kbdhid.sys, 6/12/2024 05:46:55, 73728 bytes
 | Driver: kbdclass.sys, 6/12/2024 05:46:55, 95600 bytes
 | 
-+ Teclado Padrão PS/2
++ Teclado Padr o PS/2
 | Matching Device ID: *PNP0303
 | Service: i8042prt
 | Driver: i8042prt.sys, 6/12/2024 05:46:55, 159744 bytes
 | Driver: kbdclass.sys, 6/12/2024 05:46:55, 95600 bytes
 | 
-+ Mouse compatível com HID
++ Mouse compat vel com HID
 | Vendor/Product ID: 0x093A, 0x0000
 | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | Service: mouhid
 | Driver: mouhid.sys, 5/7/2022 02:19:25, 69632 bytes
 | Driver: mouclass.sys, 5/7/2022 02:19:25, 95592 bytes
 | 
-+ Mouse compatível com HID
++ Mouse compat vel com HID
 | Vendor/Product ID: 0x00FF, 0x0000
 | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | Service: mouhid
@@ -811,16 +543,10 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 367.7 GB
+ Free Space: 367.8 GB
 Total Space: 975.5 GB
 File System: NTFS
       Model: NVMe Micron_3400_MTFDKBA1T0TFH
-
-      Drive: F:
- Free Space: 2686.9 GB
-Total Space: 3815.4 GB
-File System: NTFS
-      Model: Seagate Portable SCSI Disk Device
 
 --------------
 System Devices
@@ -877,7 +603,7 @@ Device ID: PCI\VEN_8086&DEV_7A3C&SUBSYS_170F1025&REV_11\3&11583659&0&E0
 Device ID: PCI\VEN_8086&DEV_7A2B&SUBSYS_170F1025&REV_11\3&11583659&0&F3
    Driver: C:\Windows\System32\DriverStore\FileRepository\ialpss2_spi_adl.inf_amd64_cac1831b0fe5607b\iaLPSS2_SPI_ADL.sys, 30.100.2221.0020 (English), 6/22/2022 13:45:48, 161976 bytes
 
-     Name: Barramento da Tecnologia Intel® Smart Sound
+     Name: Barramento da Tecnologia Intel  Smart Sound
 Device ID: PCI\VEN_8086&DEV_7A50&SUBSYS_170F1025&REV_11\3&11583659&0&FB
    Driver: C:\Windows\System32\DriverStore\FileRepository\intcaudiobus.inf_amd64_cb0445dfe5544239\IntcAudioBus.sys, 10.29.0000.9467 (English), 7/25/2023 00:41:16, 333656 bytes
    Driver: C:\Windows\system32\DRIVERS\drmk.sys, 10.00.22621.3880 (English), 7/10/2024 09:42:57, 143360 bytes
@@ -1453,9 +1179,8 @@ CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.22621.2506
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.22621.2506
 
 Audio Capture Sources:
-Microfone (Realtek(R) Audio),0x00200000,0,0,qcap.dll,10.00.22621.0001
 Microfone (Virtual Desktop Audio),0x00200000,0,0,qcap.dll,10.00.22621.0001
-Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais),0x00200000,0,0,qcap.dll,10.00.22621.0001
+Grupo de microfones (Tecnologia Intel  Smart Sound para microfones digitais),0x00200000,0,0,qcap.dll,10.00.22621.0001
 
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.22621.3958
@@ -1476,7 +1201,6 @@ ACER HD User Facing,0x00200000,1,1,ksproxy.ax,10.00.22621.3527
 OCULUSVAD Wave Microphone Headphone,0x00200000,1,1,ksproxy.ax,10.00.22621.3527
 ,0x00000000,0,0,,
 VDVAD Wave,0x00200000,2,2,ksproxy.ax,10.00.22621.3527
-,0x00000000,0,0,,
 
 WDM Streaming Rendering Devices:
 OCULUSVAD Wave Speaker Headphone,0x00200000,2,2,ksproxy.ax,10.00.22621.3527
@@ -1485,7 +1209,6 @@ VDVAD Wave,0x00200000,2,2,ksproxy.ax,10.00.22621.3527
 Realtek HD Audio output with SST,0x00200000,2,2,ksproxy.ax,10.00.22621.3527
 Realtek HD Audio 2nd output with SST,0x00200000,2,2,ksproxy.ax,10.00.22621.3527
 ,0x00200000,1,1,,
-,0x00000000,0,0,,
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.22621.0001
@@ -1508,14 +1231,10 @@ WDM Streaming Communication Transforms:
 Conversor em T/Entre Coletores,0x00200000,1,1,ksproxy.ax,10.00.22621.3527
 
 Audio Renderers:
-Fones de ouvido (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
+Alto-falantes (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.22621.2506
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.22621.2506
-DirectSound: Fones de ouvido (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
-DirectSound: 27G2G4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
 DirectSound: Alto-falantes (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
-27G2G4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
-Alto-falantes (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22621.2506
 
 
 ----------------------------
@@ -1601,9 +1320,9 @@ Media Foundation Transforms
   <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
 
 Video Decoders:
-  Intel® Hardware M-JPEG Decoder MFT, {00C69F81-0524-48C0-A353-4DD9D54F9A6E}, 0x6, 7, mfx_mft_mjpgvd_64.dll, 23.01.0011.0492
+  Intel  Hardware M-JPEG Decoder MFT, {00C69F81-0524-48C0-A353-4DD9D54F9A6E}, 0x6, 7, mfx_mft_mjpgvd_64.dll, 23.01.0011.0492
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpegx.dll, 31.00.0015.5244
-  Intel® Hardware M-JPEG Decoder MFT, {00C69F81-0524-48C0-A353-4DD9D54F9A6E}, 0x6, 7, mfx_mft_mjpgvd_64.dll, 23.01.0011.0492
+  Intel  Hardware M-JPEG Decoder MFT, {00C69F81-0524-48C0-A353-4DD9D54F9A6E}, 0x6, 7, mfx_mft_mjpgvd_64.dll, 23.01.0011.0492
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.22621.4036
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.22621.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.22621.0001
@@ -1619,17 +1338,17 @@ Video Decoders:
   RawImageExtension
   HEIFImageExtension
 Video Encoders:
-  Intel® Quick Sync Video H.264 Encoder MFT, {4BE8D3C0-0515-4A37-AD55-E4BAE19AF471}, 0x4, 7, mfx_mft_h264ve_64.dll, 23.01.0011.0492
+  Intel  Quick Sync Video H.264 Encoder MFT, {4BE8D3C0-0515-4A37-AD55-E4BAE19AF471}, 0x4, 7, mfx_mft_h264ve_64.dll, 23.01.0011.0492
   NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264x.dll, 31.00.0015.5244
-  Intel® Hardware Accelerated AV1 Encoder MFT, {62C053CE-5357-4794-8C5A-FBEFFEFFB82D}, 0x4, 7, mfx_mft_av1hve_64.dll, 23.01.0011.0492
+  Intel  Hardware Accelerated AV1 Encoder MFT, {62C053CE-5357-4794-8C5A-FBEFFEFFB82D}, 0x4, 7, mfx_mft_av1hve_64.dll, 23.01.0011.0492
   NVIDIA AV1 Encoder MFT, {80B80715-8C5A-420D-B346-1A9DC40A5880}, 0x4, 8, nvEncMFTav1x.dll, 31.00.0015.5244
   NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevcx.dll, 31.00.0015.5244
-  Intel® Hardware H265 Encoder MFT, {BC10864D-2B34-408F-912A-102B1B867B6C}, 0x4, 7, mfx_mft_h265ve_64.dll, 23.01.0011.0492
-  Intel® Hardware VP9 Encoder MFT, {D186A626-77CA-4D80-942F-61E0A5111AFE}, 0x4, 7, mfx_mft_vp9ve_64.dll, 23.01.0011.0492
-  Intel® Quick Sync Video H.264 Encoder MFT, {4BE8D3C0-0515-4A37-AD55-E4BAE19AF471}, 0x4, 7, mfx_mft_h264ve_64.dll, 23.01.0011.0492
-  Intel® Hardware Accelerated AV1 Encoder MFT, {62C053CE-5357-4794-8C5A-FBEFFEFFB82D}, 0x4, 7, mfx_mft_av1hve_64.dll, 23.01.0011.0492
-  Intel® Hardware H265 Encoder MFT, {BC10864D-2B34-408F-912A-102B1B867B6C}, 0x4, 7, mfx_mft_h265ve_64.dll, 23.01.0011.0492
-  Intel® Hardware VP9 Encoder MFT, {D186A626-77CA-4D80-942F-61E0A5111AFE}, 0x4, 7, mfx_mft_vp9ve_64.dll, 23.01.0011.0492
+  Intel  Hardware H265 Encoder MFT, {BC10864D-2B34-408F-912A-102B1B867B6C}, 0x4, 7, mfx_mft_h265ve_64.dll, 23.01.0011.0492
+  Intel  Hardware VP9 Encoder MFT, {D186A626-77CA-4D80-942F-61E0A5111AFE}, 0x4, 7, mfx_mft_vp9ve_64.dll, 23.01.0011.0492
+  Intel  Quick Sync Video H.264 Encoder MFT, {4BE8D3C0-0515-4A37-AD55-E4BAE19AF471}, 0x4, 7, mfx_mft_h264ve_64.dll, 23.01.0011.0492
+  Intel  Hardware Accelerated AV1 Encoder MFT, {62C053CE-5357-4794-8C5A-FBEFFEFFB82D}, 0x4, 7, mfx_mft_av1hve_64.dll, 23.01.0011.0492
+  Intel  Hardware H265 Encoder MFT, {BC10864D-2B34-408F-912A-102B1B867B6C}, 0x4, 7, mfx_mft_h265ve_64.dll, 23.01.0011.0492
+  Intel  Hardware VP9 Encoder MFT, {D186A626-77CA-4D80-942F-61E0A5111AFE}, 0x4, 7, mfx_mft_vp9ve_64.dll, 23.01.0011.0492
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.22621.0001
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.22621.0001
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.22621.0001
@@ -1957,7 +1676,7 @@ Windows Error Reporting:
 +++ WER0 +++:
 Falha no bucket 1594678223168688558, tipo 1
 Nome do Evento: APPCRASH
-Resposta: Não disponível
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
@@ -1973,257 +1692,238 @@ P9:
 P10: 
 
 Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1a0f50c4-756c-46e5-a15e-e9f24cd91e52.tmp.dmp
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2204bff2-6c0e-4961-af3c-07ee09e3035b.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.48620f7d-2a85-4664-bbbb-8b5cc5a86ad6.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7aa8c205-cb16-44f6-a647-3af4399e47ce.tmp.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.ca2b246c-5e39-49ff-8de5-ff179b554867.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0c54357f-0402-48f5-a78b-48acccb1716a.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_InstalledPackage_b371713bf2d86ccb7b74d525275f8d23c17b66_1ae4de21_be572b30-f0dd-4720-8c47-38652fb6f291
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_InstalledPackage_b371713bf2d86ccb7b74d525275f8d23c17b66_1ae4de21_04da8d39-cf37-4095-8d00-c3353f81f770
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: fbbc1021-8a1d-49ba-8fcd-65135fc1a560
-Status do Relatório: 268435456
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 3852f260-5b3b-4bd6-8fbe-72f062f56b9a
+Status do Relat rio: 268435456
 Bucket com hash: e4ff554ef627368a46216f651f0551ae
 Guid do CAB: 0
 +++ WER1 +++:
-Falha no bucket 1892523947245488744, tipo 4
+Falha no bucket , tipo 0
 Nome do Evento: APPCRASH
-Resposta: Não disponível
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: DefenderBootstrapper.exe
-P2: 0.4.46.0
-P3: b753c7f5
-P4: KERNELBASE.dll
-P5: 10.0.22621.3958
-P6: fbc3a4f6
-P7: e0434352
-P8: 000000000005fabc
+P1: InstalledPackagesAgent.exe
+P2: 5.0.3018.0
+P3: 62df5f28
+P4: InstalledPackagesAgent.exe
+P5: 5.0.3018.0
+P6: 62df5f28
+P7: c0000005
+P8: 0001c9f6
 P9: 
 P10: 
 
 Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.42db573c-615c-44f5-9bba-26e99db5d484.tmp.dmp
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.3b6a7793-000d-49d5-9bb9-1c747a2a7422.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.14c6f04a-457b-476f-9281-7a0fc7f13272.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d6208eb4-42e2-4dc7-bfd1-bdb556f030df.tmp.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.dac1a459-da4f-4923-9ae8-b445888cab4e.tmp.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_DefenderBootstra_c19bc2819ab5fe601f13b3d9d51174ade8a343aa_efd2cdfd_e51bf5b8-581d-4e5f-90f3-cf21753e5bb9
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_InstalledPackage_b371713bf2d86ccb7b74d525275f8d23c17b66_1ae4de21_04da8d39-cf37-4095-8d00-c3353f81f770
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 6ebb4b82-9b3d-4c17-ae7d-886694f22aeb
-Status do Relatório: 268435456
-Bucket com hash: cf39e0f8ee5653a67a439880c47cca68
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 3852f260-5b3b-4bd6-8fbe-72f062f56b9a
+Status do Relat rio: 4
+Bucket com hash: 
 Guid do CAB: 0
 +++ WER2 +++:
-Falha no bucket , tipo 0
-Nome do Evento: LiveKernelEvent
-Resposta: Não disponível
+Falha no bucket 2074272038415105419, tipo 5
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: 141
-P2: ffffe7024450b010
-P3: fffff805baf867e0
-P4: 0
-P5: 1770
-P6: 10_0_22631
-P7: 0_0
-P8: 768_1
+P1: Update;
+P2: 8024402c
+P3: 22631
+P4: 4037
+P5: Windows.Desktop
+P6: 
+P7: 
+P8: 
 P9: 
 P10: 
 
 Arquivos anexados:
-\\?\C:\Windows\LiveKernelReports\WATCHDOG\WATCHDOG-20240828-0401.dmp
-\\?\C:\Windows\SystemTemp\WER-181382500-0.sysdata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1a1a27d9-2a11-4764-84a1-c657c0d514e4.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.27753ab9-0fad-4382-ac25-4d721f49df0d.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.e52cd300-e7cf-48d6-a000-eb2bd30452a1.tmp.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.606e295e-ccc1-4867-918c-34c04184233f.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.4ab6b8c7-acff-4b10-9bde-eecd3891eadc.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_2d919328853466c7d59ed047cac5ed3b5d90_00000000_cab_42c57cd8-96fd-4044-ba2b-8f11595f8a3a
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_8b4493fe-55fe-4b37-aa69-de3aa7205821
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 42c57cd8-96fd-4044-ba2b-8f11595f8a3a
-Status do Relatório: 2049
-Bucket com hash: 
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 8b4493fe-55fe-4b37-aa69-de3aa7205821
+Status do Relat rio: 268435462
+Bucket com hash: d4dded4ba485a19d4cc94b6dd141fd8b
 Guid do CAB: 0
 +++ WER3 +++:
-Falha no bucket , tipo 0
-Nome do Evento: LiveKernelEvent
-Resposta: Não disponível
+Falha no bucket 2074272038415105419, tipo 5
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: 141
-P2: ffffe7024450b010
-P3: fffff805baf867e0
-P4: 0
-P5: 1770
-P6: 10_0_22631
-P7: 0_0
-P8: 768_1
+P1: Update;
+P2: 8024402c
+P3: 22631
+P4: 4037
+P5: Windows.Desktop
+P6: 
+P7: 
+P8: 
 P9: 
 P10: 
 
 Arquivos anexados:
-\\?\C:\Windows\LiveKernelReports\WATCHDOG\WATCHDOG-20240828-0401.dmp
-\\?\C:\Windows\SystemTemp\WER-181382500-0.sysdata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1a1a27d9-2a11-4764-84a1-c657c0d514e4.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.27753ab9-0fad-4382-ac25-4d721f49df0d.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.e52cd300-e7cf-48d6-a000-eb2bd30452a1.tmp.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.606e295e-ccc1-4867-918c-34c04184233f.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c06ebccd-44b7-46a5-98d3-ea11da72b52a.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_141_2d919328853466c7d59ed047cac5ed3b5d90_00000000_42c57cd8-96fd-4044-ba2b-8f11595f8a3a
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_5f951991-a57a-4984-b5d7-5efc3f1bca49
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 42c57cd8-96fd-4044-ba2b-8f11595f8a3a
-Status do Relatório: 4
-Bucket com hash: 
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 5f951991-a57a-4984-b5d7-5efc3f1bca49
+Status do Relat rio: 268435462
+Bucket com hash: d4dded4ba485a19d4cc94b6dd141fd8b
 Guid do CAB: 0
 +++ WER4 +++:
-Falha no bucket 2183145252915577383, tipo 5
-Nome do Evento: StoreAgentInstallFailure1
-Resposta: Não disponível
+Falha no bucket 2074272038415105419, tipo 5
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: Update;ScanForUpdatesForUser
-P2: 80073d02
+P1: Update;
+P2: 8024402c
 P3: 22631
 P4: 4037
 P5: Windows.Desktop
-P6: 4
+P6: 
 P7: 
 P8: 
 P9: 
 P10: 
 
 Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8da71463-bd55-478c-bb03-3673c8fe2043.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.94d6dd9f-5101-49fd-934a-e80f42b32ea9.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_6c1466137c7f84e55792c586eaf6395e43a25c80_00000000_656a6f86-1451-4fc1-a44a-8eabe31e23b6
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_fc72e56b-f357-414f-8450-ce7d0015b301
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 656a6f86-1451-4fc1-a44a-8eabe31e23b6
-Status do Relatório: 268435456
-Bucket com hash: 64b304b49058c682ee4c170a6d1d0227
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: fc72e56b-f357-414f-8450-ce7d0015b301
+Status do Relat rio: 268435462
+Bucket com hash: d4dded4ba485a19d4cc94b6dd141fd8b
 Guid do CAB: 0
 +++ WER5 +++:
-Falha no bucket 1209016795429005749, tipo 5
-Nome do Evento: StoreAgentInstallFailure1
-Resposta: Não disponível
+Falha no bucket 2074272038415105419, tipo 5
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: Update;ScanForUpdatesForUser
-P2: 80073d02
+P1: Update;
+P2: 8024402c
 P3: 22631
 P4: 4037
 P5: Windows.Desktop
-P6: Z
+P6: 
 P7: 
 P8: 
 P9: 
 P10: 
 
 Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.67c33833-5307-481e-8aa5-e20727ee1782.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2c930059-362a-431f-ba77-20d285b74719.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_3f182494344ec7af46429ef41c9871779f918_00000000_25927f5d-b236-4b7b-a34b-f72da4df6f30
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_369f142f-1de8-4418-80cf-2accad2f5c34
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 25927f5d-b236-4b7b-a34b-f72da4df6f30
-Status do Relatório: 268435456
-Bucket com hash: 7a566eb8a4ecab8530c74a5eab06e9b5
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 369f142f-1de8-4418-80cf-2accad2f5c34
+Status do Relat rio: 268435462
+Bucket com hash: d4dded4ba485a19d4cc94b6dd141fd8b
 Guid do CAB: 0
 +++ WER6 +++:
-Falha no bucket , tipo 0
-Nome do Evento: StoreAgentInstallFailure1
-Resposta: Não disponível
+Falha no bucket 1758548508695861620, tipo 4
+Nome do Evento: APPCRASH
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: Update;ScanForUpdatesForUser
-P2: 80073d02
-P3: 22631
-P4: 4037
-P5: Windows.Desktop
-P6: 4
-P7: 
-P8: 
+P1: KAPS.exe
+P2: 3.1423.302.1
+P3: 64000661
+P4: KAPS.exe
+P5: 3.1423.302.1
+P6: 64000661
+P7: c0000005
+P8: 00000000000e2460
 P9: 
 P10: 
 
 Arquivos anexados:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9a9f7a44-025c-4395-908d-2f3c06c7b363.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;ScanForUp_6c1466137c7f84e55792c586eaf6395e43a25c80_00000000_656a6f86-1451-4fc1-a44a-8eabe31e23b6
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KAPS.exe_c7843f4fd6d51395de7f5d9a3a1374166e6e8b_e85e374e_f4591307-71cb-4d09-95d7-0fc7cb84dbf7
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 656a6f86-1451-4fc1-a44a-8eabe31e23b6
-Status do Relatório: 4
-Bucket com hash: 
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: e0ea4cdb-6f83-4f4c-9760-ae92205d47d0
+Status do Relat rio: 268435462
+Bucket com hash: 9c3dbcde470e8e9218679e8d2d1c1974
 Guid do CAB: 0
 +++ WER7 +++:
-Falha no bucket 1910357251511146975, tipo 5
-Nome do Evento: StoreAgentInstallFailure1
-Resposta: Não disponível
+Falha no bucket , tipo 0
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: Update;ScanForUpdatesForUser
-P2: 80073d02
+P1: Update;
+P2: 8024402c
 P3: 22631
 P4: 4037
 P5: Windows.Desktop
-P6: V
+P6: 
 P7: 
 P8: 
 P9: 
 P10: 
 
 Arquivos anexados:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.686435b8-3965-4c69-bbb1-24f60d514520.tmp.WERInternalMetadata.xml
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_3f57ad8d73825461d646acc362d165523d58389_00000000_ca793a87-33a8-462d-97da-23ff33c6aa46
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_8b4493fe-55fe-4b37-aa69-de3aa7205821
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: ca793a87-33a8-462d-97da-23ff33c6aa46
-Status do Relatório: 268435456
-Bucket com hash: e99d7e6f62985413fa82f3cc7a69d9df
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 8b4493fe-55fe-4b37-aa69-de3aa7205821
+Status do Relat rio: 6
+Bucket com hash: 
 Guid do CAB: 0
 +++ WER8 +++:
 Falha no bucket , tipo 0
-Nome do Evento: StoreAgentInstallFailure1
-Resposta: Não disponível
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: Update;ScanForUpdatesForUser
-P2: 80073d02
+P1: Update;
+P2: 8024402c
 P3: 22631
 P4: 4037
 P5: Windows.Desktop
-P6: Z
+P6: 
 P7: 
 P8: 
 P9: 
@@ -2231,28 +1931,28 @@ P10:
 
 Arquivos anexados:
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;ScanForUp_3f182494344ec7af46429ef41c9871779f918_00000000_25927f5d-b236-4b7b-a34b-f72da4df6f30
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_5f951991-a57a-4984-b5d7-5efc3f1bca49
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: 25927f5d-b236-4b7b-a34b-f72da4df6f30
-Status do Relatório: 4
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: 5f951991-a57a-4984-b5d7-5efc3f1bca49
+Status do Relat rio: 6
 Bucket com hash: 
 Guid do CAB: 0
 +++ WER9 +++:
 Falha no bucket , tipo 0
-Nome do Evento: StoreAgentInstallFailure1
-Resposta: Não disponível
+Nome do Evento: StoreAgentScanForUpdatesFailure0
+Resposta: N o dispon vel
 ID do CAB: 0
 
 Assinatura do problema:
-P1: Update;ScanForUpdatesForUser
-P2: 80073d02
+P1: Update;
+P2: 8024402c
 P3: 22631
 P4: 4037
 P5: Windows.Desktop
-P6: V
+P6: 
 P7: 
 P8: 
 P9: 
@@ -2260,12 +1960,12 @@ P10:
 
 Arquivos anexados:
 
-Esses arquivos talvez estejam disponíveis em:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;ScanForUp_3f57ad8d73825461d646acc362d165523d58389_00000000_ca793a87-33a8-462d-97da-23ff33c6aa46
+Esses arquivos talvez estejam dispon veis em:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_7f4b499bc467ebd0e9d72d46cf3891af9215e2_00000000_fc72e56b-f357-414f-8450-ce7d0015b301
 
-Símbolo da análise: 
-Verificando novamente se há uma solução: 0
-ID do Relatório: ca793a87-33a8-462d-97da-23ff33c6aa46
-Status do Relatório: 4
+S mbolo da an lise: 
+Verificando novamente se h  uma solu  o: 0
+ID do Relat rio: fc72e56b-f357-414f-8450-ce7d0015b301
+Status do Relat rio: 6
 Bucket com hash: 
 Guid do CAB: 0
